@@ -1,0 +1,81 @@
+.div-blue{
+  background-color: #37abc8;
+}
+.div-green{
+  background-color: #10ca6a;
+}
+.div-orange{
+  background-color: #ff7542;
+}
+
+.card{
+  padding: 20px;
+  color: #fff;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid;
+  border-radius: 8px;
+}
+
+.card > span{
+  font-size: 60pt;
+}
+
+.card p {
+  margin-top: 30px;
+  font-size: 16pt;
+}
+
+.imgserv{
+	width:96px;
+	height:80px;
+	
+}
+footer{ 
+	background-color:#333;
+	padding:10px;
+	color:#fff;
+	
+}
+
+footer span{
+		font-size: 12pt;
+	}
+
+
+.blog-data {
+	background-color: #000099;
+	color: #fff;
+	border-radius:3px;
+	}
+.blog-data{
+	font-size: 36pt;	
+	}
+	
+.blog-data .mes{
+	font-size: 12pt;	
+	}
+
+.blog-autor {
+	font-size: 16pt;
+	color: #999;	
+	}
+.blog-previa {
+	font-size:  12pt;	
+	
+	}
+.imgprevia{
+	width:450px; 
+	height:300px;	
+	}
+
+
+
+
+
+
+
+
+
+
+
